@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Andr%C3%A9s%20Listorti&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=MVP%20%26%20Startup%20Developer&descAlignY=55&descSize=20&v=2" width="100%"/>
+# Hi, I'm Andrés Listorti 👋
 
 <a href="https://github.com/andresListorti">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%7C+React+%2F+Next.js+%2F+Node;Ex-Lawyer+turned+Self-Taught+Programmer;I+turn+ideas+into+working+products;Based+in+Buenos+Aires%2C+Argentina&font=Fira+Code&center=true&width=720&height=45&color=1BFFFF&vCenter=true&size=20"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%7C+React+%2F+Next.js+%2F+Node;Lawyer+turned+Self-Taught+Programmer;I+turn+ideas+into+working+products;Based+in+Buenos+Aires%2C+Argentina&font=Fira+Code&center=true&width=720&height=45&color=1BFFFF&vCenter=true&size=20"/>
 </a>
 
 </div>
@@ -30,28 +30,12 @@ I build fast, functional MVPs for startups and small businesses — from a live 
 
 ### 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://genarozapateria.vercel.app">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=andresListorti&repo=andresListorti.github.io&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/andresListorti/ReactRickAnd">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=andresListorti&repo=ReactRickAnd&theme=default&hide_border=true" />
-</a>
-
-</div>
-
 **[🛒 Genaro Calzado](https://genarozapateria.vercel.app)** — Full e-commerce store built end to end: product catalog, cart, checkout flow, and deployment.
 **[💼 Portfolio](https://portfolio25-seven-nu.vercel.app)** — Case studies and a full walkthrough of my project work.
 
 <br>
 
 ### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=andresListorti&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresListorti&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresListorti&theme=tokyonight&hide_border=true" />
@@ -75,4 +59,6 @@ I build fast, functional MVPs for startups and small businesses — from a live 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=100&section=footer&v=2" width="100%"/>
+<div align="center">
+<sub>Thanks for stopping by ✨</sub>
+</div>
