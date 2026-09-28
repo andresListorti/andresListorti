@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Andrés Listorti 👋
+# Hi, I'm Andrés Antonio Listorti 👋
 
 <a href="https://github.com/andresListorti">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%7C+React+%2F+Next.js+%2F+Node;AI-Native+Engineer+%7C+Claude+Code+%C2%B7+Copilot+%C2%B7+Codex;Lawyer+turned+Self-Taught+Programmer;I+turn+ideas+into+working+products;Based+in+Buenos+Aires%2C+Argentina&font=Fira+Code&center=true&width=720&height=45&color=1BFFFF&vCenter=true&size=20"/>
