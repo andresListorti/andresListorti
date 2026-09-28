@@ -38,7 +38,7 @@ I build fast, functional MVPs for startups and small businesses — from a full 
 
 **📊 Costs & Pricing App** — PWA that replaced a footwear factory's pricing spreadsheet: cost breakdowns, Excel/PDF reports, charts. Firebase. *(private code)*
 
-**[💼 Portfolio 2026](https://andres-listorti.vercel.app)** — Case studies, experience, stack and how I work with AI ([code](https://github.com/andresListorti/Portfolio-2026)).
+**[💼 Portfolio 2026](https://andres-listorti-2026.vercel.app)** — Case studies, experience, stack and how I work with AI ([code](https://github.com/andresListorti/Portfolio-2026)).
 
 <br>
 
@@ -57,7 +57,7 @@ I build fast, functional MVPs for startups and small businesses — from a full 
 <a href="https://www.upwork.com/freelancers/~019cbbd63fe3a1e4b9" target="_blank">
 <img src="https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
-<a href="https://andres-listorti.vercel.app" target="_blank">
+<a href="https://andres-listorti-2026.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-View%20work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
