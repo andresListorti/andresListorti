@@ -3,7 +3,7 @@
 # Hi, I'm Andrés Antonio Listorti 👋
 
 <a href="https://github.com/andresListorti">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%7C+React+%2F+Next.js+%2F+Node;AI-Native+Developer+%7C+Claude+Code+%C2%B7+Copilot+%C2%B7+Codex;Lawyer+turned+Self-Taught+Programmer;I+turn+ideas+into+working+products;Based+in+Buenos+Aires%2C+Argentina&font=Fira+Code&center=true&width=720&height=45&color=1BFFFF&vCenter=true&size=20"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI-Native+Full+Stack+Engineer;React+%2F+Next.js+%2F+Node+%C2%B7+Python+%2F+FastAPI;Claude+Code+%C2%B7+Codex+%C2%B7+Copilot;I+turn+ideas+into+working+products;Based+in+Buenos+Aires%2C+Argentina&font=Fira+Code&center=true&width=720&height=45&color=1BFFFF&vCenter=true&size=20"/>
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 I build fast, functional MVPs for startups and small businesses — from a full e-commerce with online payments, to an AI agent SaaS, to internal tools that replace hours of manual spreadsheet work. I ship end to end: frontend, backend, and deployment.
 
-- 🎓 Lawyer (Universidad de Belgrano, 2009) — 15+ years running an independent legal practice before moving into development
+- 🎓 Lawyer (Universidad de Belgrano, 2009) — business lawyer 2010–2020 (I no longer practice actively) before moving into software development
 - 💻 Self-taught programmer since 2020, formally trained through Coderhouse (React JS & Next.js intensive tracks)
 - 🤖 AI-native workflow: I build daily with Claude Code, GitHub Copilot, OpenAI Codex and Cursor — and review AI-generated code like a pull request: correctness, edge cases, security, readability
 - ✍️ Clear technical writing in English (C1) and Spanish (native)
